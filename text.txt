@@ -1,0 +1,10 @@
+5d3e14b9-a468-4c28-a2d7-708266b22a0d
+338cad0a-9226-41c6-a09d-748ec1a0b210
+a06782a0-ba31-4d36-9316-a15c88f51e73
+dcmu21OPC*YW
+
+
+Subscription Id		5d3e14b9-a468-4c28-a2d7-708266b22a0d
+Tenant Id (Directory Id)	338cad0a-9226-41c6-a09d-748ec1a0b210	
+Application Id		a06782a0-ba31-4d36-9316-a15c88f51e73
+Secret Key		dcmu21OPC*YW
